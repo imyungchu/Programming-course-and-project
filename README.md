@@ -3,6 +3,33 @@
 ###### tags: `108下` `Industrial Engineering` `project` `Dev C++` `course` 
 
 ✏️This note record our project and course material of the NCTU course [Programming](https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=108&Sem=2&CrsNo=1605&lang=zh-tw) in 2020 spring（108下學期）🏫 
+## :notebook_with_decorative_cover: The Homeworks and Materials of the course
+
+Copyright© The homeworks and teaching materials is provided by the professor of the course, Lin, Qing-Feng , and the answers in some code blocks is added by me.
+
+| Homework : Grade   |  link              | 
+| ----------------- |:----------------------- |
+| Lab1 : 10/10   | [:link:][1]  |
+| Lab2 : 10/10    | [:link:][2]  |
+| Lab3 : 10/10       | [:link:][3]    | 
+| Lab4 : 14/15        | [:link:][4]     |
+| Lab5 : 10/10     | [:link:][5]     |
+| Lab6 : 9/10 | [:link:][6]|
+    
+    
+
+
+[1]: https://github.com/imyungchu/Programming-course-and-project/tree/main/HW/HW1
+
+[2]: https://github.com/imyungchu/Programming-course-and-project/tree/main/HW/HW2
+
+[3]: https://github.com/imyungchu/Programming-course-and-project/tree/main/HW/HW3
+
+[4]: https://github.com/imyungchu/Programming-course-and-project/tree/main/HW/HW4
+
+[5]: https://github.com/imyungchu/Programming-course-and-project/tree/main/HW/HW5
+
+[6]:https://github.com/imyungchu/Programming-course-and-project/tree/main/HW/HW6
 
 ## :robot_face:  About C++ programming project
 
@@ -208,33 +235,6 @@ Knowing loving to win and hating to lose is one of the basic human trait. We hav
 
 >Sorce code : https://github.com/imyungchu/Programming-course-and-project/blob/main/Project%20B/project%20B(3.2).cpp
 
-## :notebook_with_decorative_cover: The Homeworks and Materials of the course
-
-Copyright© The homeworks and teaching materials is provided by the professor of the course, [Nick Wang](https://arg-nctu.github.io) , and the answers in some code blocks is added by me.
-
-| Homework : Grade   |  link              | 
-| ----------------- |:----------------------- |
-| Lab1 : 10/10   | [:link:][1]  |
-| Lab2 : 10/10    | [:link:][2]  |
-| Lab3 : 10/10       | [:link:][3]    | 
-| Lab4 : 14/15        | [:link:][4]     |
-| Lab5 : 10/10     | [:link:][5]     |
-| Lab6 : 9/10 | [:link:][6]|
-    
-    
-
-
-[1]: https://github.com/imyungchu/Programming-course-and-project/tree/main/HW/HW1
-
-[2]: https://github.com/imyungchu/Programming-course-and-project/tree/main/HW/HW2
-
-[3]: https://github.com/imyungchu/Programming-course-and-project/tree/main/HW/HW3
-
-[4]: https://github.com/imyungchu/Programming-course-and-project/tree/main/HW/HW4
-
-[5]: https://github.com/imyungchu/Programming-course-and-project/tree/main/HW/HW5
-
-[6]:https://github.com/imyungchu/Programming-course-and-project/tree/main/HW/HW6
 
 
 
